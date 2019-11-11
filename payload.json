@@ -1,0 +1,19 @@
+{
+  "applicationKey" : {
+    "packageName" : "com.example.android",
+    "clientPlatform" : "android",
+    "version" : "com.package.id"
+  },
+  "displayName" : "android_sample",
+  "mandatoryScope" : "appAuthenticity",
+   "securityCheckConfigurations" : {
+    "appAuthenticity" : {
+      "expirationSec" : "1200"
+    }
+  },
+   "scopeElementMapping": {
+   "UserNamePassword":  "LtpaBasedSSO appAuthenticity"
+  }
+}
+
+
