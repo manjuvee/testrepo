@@ -1,5 +1,18 @@
 {
-  "hostname" : "184.172.234.88",
-  "port" : "32466",
-  "servercred" : "admin:admin"
+  "env_choice": "default",
+  "development": {
+    "hostname": "184.173.5.44",
+    "port": "30989",
+    "servercred": "admin:admin"
+  },
+  "production": {
+    "hostname": "184.173.5.44",
+    "port": "30989",
+    "servercred": "admin:admin"
+  },
+  "default": {
+    "hostname": "184.173.5.44",
+    "port": "30989",
+    "servercred": "admin:admin"
+  }
 }
