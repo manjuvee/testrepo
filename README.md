@@ -1,3 +1,3 @@
 # testrepo - Mobile First
 
-Mobile First test 1
+Mobile First test
